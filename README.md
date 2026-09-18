@@ -340,6 +340,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [GetBlock](https://getblock.io/) - Blockchain-as-a-Service provider (RPC Node provider) that supports over 50 multiple networks, including ETH.
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 * [NOWNodes](https://nownodes.io) - Provide access to ETH node (and 48+ more) and Block Explorer. Get free API key to test blockchain-as-a-service solution
+* [NodeCache](https://oculix.io/docs/nodecache/) - Read-only caching layer for Ethereum JSON-RPC calls with per-method TTLs. Reduces redundant calls and costs. Free: 100,000 cached requests/month.
 * [Spice](https://spice.xyz) - Data and AI managed service, with SQL, API, and Node-as-a-Service.
 * [InfStones](https://infstones.com/) - Blockchain node service provider, with support for over 60 blockchain protocols.
 * [Chainnodes](https://www.chainnodes.org/) - Web3 Infrastructure provider with enterprise grade low latency for all. Supports all major EVM chains.
